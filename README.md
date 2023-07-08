@@ -3,9 +3,8 @@ Machine Learning Web App Built Using Flask Deployed on Heroku
 
 <img src="https://images.everydayhealth.com/images/diabetes-awareness-month-1440x810.jpg">
 
-• This repository consists of files required to deploy a Machine Learning Web App created with Flask and deployed using Heroku platform.
+• This repository consists of files required to deploy a Machine Learning Web App created .
 
-• If you want to view the deployed model, click on the following link:
 
 I am excited to share my project where I developed a predictive model for diabetes diagnosis using machine learning techniques. Diabetes, a group of metabolic disorders characterized by high blood sugar levels.
 To tackle this challenge, I leveraged a diverse and noisy dataset from Kaggle, which included nine relevant features such as pregnancy, glucose levels, and more. To ensure accurate predictions, I performed comprehensive feature engineering to handle missing values and address class imbalance within the data.
